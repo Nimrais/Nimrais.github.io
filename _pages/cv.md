@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Statistics, Taras Shevchenko National University of Kyiv, 2019
 * M.S. in Statistics, Taras Shevchenko National University of Kyiv, 2021
-* M.S. in Computer Science, Instituto Politécnico Nacional (Mexico City), expected January 2021
+* M.S. in Computer Science, Instituto Politécnico Nacional (Mexico City), expected November-December 2021
 
 <!-- Work experience
 ======
