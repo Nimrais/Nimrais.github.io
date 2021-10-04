@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my delailed [CV](https://drive.google.com/file/d/1VqFuJo_7lajo831ANnjYD932QX9oGswg/view).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Statistics
 
 Work experience
 ======
