@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my delailed [CV](https://drive.google.com/file/d/1VqFuJo_7lajo831ANnjYD932QX9oGswg/view).
+You can download my delailed [CV](https://nimrais.github.io/files/CV.pdf).
 
 Education
 ======
